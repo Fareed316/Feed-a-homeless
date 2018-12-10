@@ -35,6 +35,6 @@ include './db-connect.php';
 		
 ?>	
    </div></div></div></div>
-   </section> <!-- end home -->
+   </section> 
 </body>
 </html>
