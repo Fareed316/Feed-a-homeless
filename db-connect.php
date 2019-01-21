@@ -2,10 +2,10 @@
 
 <?php
 
-$user = 'root';
+$user = '';
 $pass = '';
 
-$db = 'home';
+$db = '';
 
 $db = new mysqli('localhost', $user, $pass, $db) or die("Unable to connect");
 
